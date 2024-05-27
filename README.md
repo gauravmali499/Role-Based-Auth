@@ -1,1 +1,1 @@
-https://github.com/CodAffection/Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role
+https://ravindradevrani.medium.com/net-7-jwt-authentication-and-role-based-authorization-5e5e56979b67
